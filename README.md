@@ -12,8 +12,8 @@ Welcome to AlzUnified, an application designed with the utmost precision and car
 ## Installation
 
 ### APK Installation on Device
-1. Navigate to the provided folder where the `AlzUnified.apk` file is located.
-2. Download the APK file.
+1. Click on the following link to download the `AlzUnified.apk` file: [Download APK](https://drive.google.com/drive/folders/1dvxf9FSrPQlOUK5URYdGUea-2uVWov_Q?usp=sharing).
+2. Once downloaded, proceed to install the APK on your device.
 3. Before installing, you might need to allow installation from unknown sources on your phone:
    - Go to your phone's **Settings**.
    - Navigate to **Security** or **Applications** (varies with devices).
@@ -50,15 +50,9 @@ Now, select **Marketplace**, find the Flutter plugin, and click **Install**.
 
 **Note**: Ensure you have an emulator set up or a real device connected for the application to run.
 
----
 
 
-
-# health
-
-A new Flutter project.
-
-## Getting Started
+## Getting Started Flutter Documentation
 
 This project is a starting point for a Flutter application.
 
@@ -70,3 +64,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+---
+
