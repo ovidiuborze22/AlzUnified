@@ -24,7 +24,7 @@ Welcome to AlzUnified, an application designed with the utmost precision and car
 
 #### Prerequisites
 - Install [Android Studio](https://developer.android.com/studio) (Version 3.0 or later).
-- Have Flutter installed on your machine.
+- Have [Flutter](https://docs.flutter.dev/get-started/install) installed on your machine.
 
 ## Setting Up Android Studio for Flutter Development
 
