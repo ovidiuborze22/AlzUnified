@@ -46,7 +46,10 @@ Now, select **Marketplace**, find the Flutter plugin, and click **Install**.
 2. Click on **File > Open**.
 3. Navigate to the AndroidStudio Project folder of AlzUnified.
 4. Select the project and click **OK**.
-5. Once the project is loaded and indexed, click on the green play button or press **Shift + F10** to run the app.
+5. To fetch and install the necessary dependencies for the project:
+   - Locate and click on the `pubspec.yaml` file.
+   - On the top header, you will see an option called **"Pub get"**. Click on it to install all the necessary dependencies for the project.
+6. Once the project is loaded and indexed, click on the green play button or press **Shift + F10** to run the app.
 
 **Note**: Ensure you have an emulator set up or a real device connected for the application to run.
 
