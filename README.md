@@ -12,7 +12,7 @@ Welcome to AlzUnified, an application designed with the utmost precision and car
 ## Installation
 
 ### APK Installation on Device
-1. Click on the following link to download the `AlzUnified.apk` file: [Download APK](https://drive.google.com/drive/folders/1dvxf9FSrPQlOUK5URYdGUea-2uVWov_Q?usp=sharing).
+1. Click on the following link to download the `app-release.apk` file: [Download APK](https://drive.google.com/drive/folders/1dvxf9FSrPQlOUK5URYdGUea-2uVWov_Q?usp=sharing).
 2. Once downloaded, proceed to install the APK on your device.
 3. Before installing, you might need to allow installation from unknown sources on your phone:
    - Go to your phone's **Settings**.
